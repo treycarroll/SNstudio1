@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element dynamic_default_value="05-09-2019" label="testTable" max_length="40" name="x_gmfm2_k18test1_testtable" type="collection">
+        <element dynamic_default_value="05-09-2019" label="Name" max_length="40" name="x_gmfm2_k18test1_name" type="string"/>
+    </element>
+</database>

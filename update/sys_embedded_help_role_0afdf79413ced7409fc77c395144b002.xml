@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_gmfm2_k18test1.testtable_user" name="x_gmfm2_k18test1.testtable_user">8efdb79413ced7409fc77c395144b0ff</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>DCARRO4</sys_created_by>
+        <sys_created_on>2018-05-09 21:38:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0afdf79413ced7409fc77c395144b002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8efdb79413ced7409fc77c395144b0ff</sys_name>
+        <sys_package display_value="K18Test1" source="x_gmfm2_k18test1">ab577b1c130ed7409fc77c395144b023</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K18Test1">ab577b1c130ed7409fc77c395144b023</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0afdf79413ced7409fc77c395144b002</sys_update_name>
+        <sys_updated_by>DCARRO4</sys_updated_by>
+        <sys_updated_on>2018-05-09 21:38:40</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

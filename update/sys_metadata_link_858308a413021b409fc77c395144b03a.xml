@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e57988ebdbecdf48d3925cefdf9619d5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="incident">
+    <incident action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Al Salomon">a3e2125f6f0011006e9c828c5d3ee4b9</assigned_to>
+        <assignment_group display_value="ServiceNow Support" name="ServiceNow Support">806250ca6fe2d500b8d923fc5d3ee498</assignment_group>
+        <business_duration/>
+        <business_service/>
+        <business_stc/>
+        <calendar_duration/>
+        <calendar_stc/>
+        <caller_id display_value="Trey Carroll">9c9c484b6fd6e5004baa828c5d3ee40f</caller_id>
+        <category>failure</category>
+        <caused_by/>
+        <child_incidents>2</child_incidents>
+        <close_code/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="ServiceNow - CORE">4d95e35c6f0b51004baa828c5d3ee4df</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type>phone</contact_type>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>this is a parent ticket for these other open Incidents (&amp; RITMs):&#13;
+INC0482971      (koodomobile)&#13;
+INC0480696      (T-Mobile user)&#13;
+RITM1757824   (T-Mobile user)&#13;
+RITM1798270   (T-Mobile user)</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <incident_state>2</incident_state>
+        <knowledge>false</knowledge>
+        <location display_value="AOC">d2da26a36f341100b8d923fc5d3ee405</location>
+        <made_sla>true</made_sla>
+        <notify>1</notify>
+        <number>INC0504955</number>
+        <opened_at>2018-03-05 16:36:27</opened_at>
+        <opened_by display_value="Al Salomon">a3e2125f6f0011006e9c828c5d3ee4b9</opened_by>
+        <order/>
+        <parent/>
+        <parent_incident/>
+        <priority>5</priority>
+        <problem_id/>
+        <reassignment_count>1</reassignment_count>
+        <rejection_goto/>
+        <reopen_count>0</reopen_count>
+        <resolved_at/>
+        <resolved_by/>
+        <rfc/>
+        <service_offering/>
+        <severity>3</severity>
+        <short_description>Some users are not getting their SMS text msgs since the Jakarta upgrade</short_description>
+        <skills/>
+        <sla_due/>
+        <state>2</state>
+        <subcategory>other</subcategory>
+        <sys_class_name>incident</sys_class_name>
+        <sys_created_by>ASALOM1</sys_created_by>
+        <sys_created_on>2018-03-05 16:37:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>e57988ebdbecdf48d3925cefdf9619d5</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>ASALOM1</sys_updated_by>
+        <sys_updated_on>2018-03-20 12:48:00</sys_updated_on>
+        <time_worked>1970-01-01 00:06:14</time_worked>
+        <u_articles_attached/>
+        <u_bus_comm_notif_grps/>
+        <u_business_communication/>
+        <u_business_watchlist/>
+        <u_create_knowledge_article>false</u_create_knowledge_article>
+        <u_degraded_time/>
+        <u_duration/>
+        <u_email/>
+        <u_end_time/>
+        <u_it_communication/>
+        <u_it_watchlist/>
+        <u_outage_time/>
+        <u_phone/>
+        <u_preferred_contact/>
+        <u_resolution/>
+        <u_review>false</u_review>
+        <u_review_notes/>
+        <u_root_cause/>
+        <u_sms_business_communication/>
+        <u_sms_business_hidden/>
+        <u_sms_it_comm/>
+        <u_sms_it_hidden/>
+        <u_start_time/>
+        <u_submitted_from/>
+        <u_summary/>
+        <u_time_estimated_hrs/>
+        <u_time_remaining_hrs/>
+        <u_time_so_far_hrs/>
+        <u_workaround/>
+        <u_workstation/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <vulnerability/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </incident>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>DCARRO4</sys_created_by>
+        <sys_created_on>2018-05-09 22:02:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>858308a413021b409fc77c395144b03a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INC0504955</sys_name>
+        <sys_package display_value="K18Test1" source="x_gmfm2_k18test1">ab577b1c130ed7409fc77c395144b023</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K18Test1">ab577b1c130ed7409fc77c395144b023</sys_scope>
+        <sys_update_name>sys_metadata_link_858308a413021b409fc77c395144b03a</sys_update_name>
+        <sys_updated_by>DCARRO4</sys_updated_by>
+        <sys_updated_on>2018-05-09 22:02:54</sys_updated_on>
+        <tablename>incident</tablename>
+    </sys_metadata_link>
+</record_update>
